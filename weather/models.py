@@ -5,3 +5,10 @@ class City(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class a:
+    pass
+
+class b:
+    pass
