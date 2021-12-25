@@ -9,3 +9,6 @@ class City(models.Model):
 
 class a:
     pass
+
+class b:
+    pass
